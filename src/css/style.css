@@ -202,6 +202,13 @@ footer {
     font-size: 1rem;
 }
 
+.navbar a {
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--light-green);
+    text-decoration: none;
+}
+
 .stamp {
     font-weight: 400;
 }
